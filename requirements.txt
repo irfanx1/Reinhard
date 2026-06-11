@@ -1,0 +1,10 @@
+aiohttp
+pyrofork
+pymongo
+python-dotenv
+flask
+tgcrypto
+feedparser
+beautifulsoup4
+yt_dlp
+psutil
