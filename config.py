@@ -3,18 +3,18 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Telegram API credentials — https://my.telegram.org
-API_ID   = "27xxxxxxx"
-API_HASH = "a14c9xxxxxxxxxxxxxxxxxxx0"
+API_ID   = "39407537"
+API_HASH = "5bd2e83dd1227da3f38c966d1d46d9ae"
 
 # Bot token — @BotFather
 BOT_TOKEN = "8649063236:AAHg7xxxxxxxxxxxxxxxxxxxxxx"
 
 # MongoDB URI — https://www.mongodb.com/
-MONGO_URI = "mongodb+srv://xxxxxxxxxxx:xxxxxxxx@cluster0.t3frstc.mongodb.net/?appName=Cluster0"
+MONGO_URI = "mongodb+srv://ADMIN98:Irfan987065@cluster0.eqcgcaq.mongodb.net/?appName=Cluster0"
 
 # ── Owner / Admins ──────────────────────────────
-OWNER_ID = 5556475282           # Single owner (full control)
-ADMINS   = [5556475282]        # Initial admin list (can be extended via /add_admin)
+OWNER_ID = 8180269769           # Single owner (full control)
+ADMINS   = [8180269769]        # Initial admin list (can be extended via /add_admin)
 
 # ── Force Subscription (FSUB) ───────────────────
 # Leave FSUB_CHANNEL_ID = 0 to disable FSUB entirely
