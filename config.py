@@ -7,7 +7,7 @@ API_ID   = "39407537"
 API_HASH = "5bd2e83dd1227da3f38c966d1d46d9ae"
 
 # Bot token — @BotFather
-BOT_TOKEN = "8649063236:AAHg7xxxxxxxxxxxxxxxxxxxxxx"
+BOT_TOKEN = "8930657658:AAFY0PNiGd_fvFjluq_0p7tahqF9huGtRhU"
 
 # MongoDB URI — https://www.mongodb.com/
 MONGO_URI = "mongodb+srv://ADMIN98:Irfan987065@cluster0.eqcgcaq.mongodb.net/?appName=Cluster0"
