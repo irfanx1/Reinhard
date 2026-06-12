@@ -23,7 +23,7 @@ FSUB_CHANNEL_USERNAME = "BotifyX_Pro_Botz"     # Without @
 
 # ── Sticker ──────────────────────────────────────
 # Sent after EVERY news post. Leave empty "" to disable.
-STICKER_ID = "CAACAgQAAxkBAAEEr59p4xaaY6BI8syUwHYCU-KCM-B2CgACohEAAotyWFJHKs4OhOgj0R4E"   # e.g. "CAACAgIAAxkBAAIB..."
+STICKER_ID = "CAACAgUAAxkBAAFMMrlqK2Zhw8frphjTVhGi6JyZ-D0GzgACCR4AAqyNYFX_a_gQ34sG0DwE"   # e.g. "CAACAgIAAxkBAAIB..."
 
 
 # Default RSS feeds loaded at startup (add more as URL_B, URL_C, …)
