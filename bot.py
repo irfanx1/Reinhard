@@ -217,7 +217,7 @@ async def start_cmd(client: Client, message: Message):
         await asyncio.sleep(0.4)
         await m.delete()
         await message.reply_sticker(
-            "CAACAgQAAxkBAAKxCGnjjGOMolS6aezsB-4PsMH8QdcvAAJCFwACnUlZUNaiaMGYYnL1HgQ"
+            "CAACAgUAAxkBAAFMMrlqK2Zhw8frphjTVhGi6JyZ-D0GzgACCR4AAqyNYFX_a_gQ34sG0DwE"
         )
     except Exception as e:
         print(f"[/start] Animation error: {e}")
