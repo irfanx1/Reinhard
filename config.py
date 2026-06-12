@@ -18,12 +18,12 @@ ADMINS   = [8180269769]        # Initial admin list (can be extended via /add_ad
 
 # ── Force Subscription (FSUB) ───────────────────
 # Leave FSUB_CHANNEL_ID = 0 to disable FSUB entirely
-FSUB_CHANNEL_ID       = -1003865044362                  # e.g.  -1001234567890
-FSUB_CHANNEL_USERNAME = "BotifyX_Pro_Botz"     # Without @
+FSUB_CHANNEL_ID       = -1003993251030                  # e.g.  -1001234567890
+FSUB_CHANNEL_USERNAME = "Zenkai_Network"     # Without @
 
 # ── Sticker ──────────────────────────────────────
 # Sent after EVERY news post. Leave empty "" to disable.
-STICKER_ID = "CAACAgUAAxkBAAFMMrlqK2Zhw8frphjTVhGi6JyZ-D0GzgACCR4AAqyNYFX_a_gQ34sG0DwE"   # e.g. "CAACAgIAAxkBAAIB..."
+STICKER_ID = "CAACAgUAAxkBAAFMMuxqK2rjmOuPbhsTBxTr3ER03ocO-AACjB4AAjGgYFXpWMxtUKd1oTwE"   # e.g. "CAACAgIAAxkBAAIB..."
 
 
 # Default RSS feeds loaded at startup (add more as URL_B, URL_C, …)
