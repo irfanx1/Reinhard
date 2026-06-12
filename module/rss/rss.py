@@ -210,9 +210,9 @@ async def format_rss_entry(entry, is_admin_channel: bool = False) -> tuple:
 
     if is_admin_channel:
         footer = (
-            "<b><blockquote>━━━━━━━ ◈"
-            "<a href='https://t.me/BotifyX_Pro_Botz'>Bᴏᴛɪғʏx ʙᴏᴛs</a>"
-            "◈ ━━━━━━━</blockquote></b>"
+            "<b><blockquote> ≡ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : "
+            "<a href='https://t.me/BotifyX_Pro_Botz'>𝐙ᴇɴᴋᴀɪ 𝐍ᴇᴛᴡᴏʀᴋ</a>"
+            "</blockquote></b>"
         )
     else:
         footer = f"<b><blockquote><a href='{link}'>Read Full News</a></blockquote></b>"
