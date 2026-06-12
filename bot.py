@@ -225,10 +225,10 @@ async def start_cmd(client: Client, message: Message):
     # ── Welcome card ─────────────────────────────────────────────────
     buttons = InlineKeyboardMarkup([
         [
-            InlineKeyboardButton("ᴍᴀɪɴ ʜᴜʙ", url="https://t.me/BotifyX_Pro_Botz"),
-            InlineKeyboardButton("ꜱᴜᴩᴩᴏʀᴛ",  url="https://t.me/+ij3pcPOXv2U4MDll"),
+            InlineKeyboardButton("ᴍᴀɪɴ ʜᴜʙ", url="https://t.me/Rage_Insight"),
+            InlineKeyboardButton("ꜱᴜᴩᴩᴏʀᴛ",  url="https://t.me/Zenkai_Network"),
         ],
-        [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/ITsANIMEN")],
+        [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/SubaruXnatsuki")],
     ])
     caption = (
         f"<b><blockquote>ʙᴀᴋᴋᴀᴀᴀ {mention}!!!\n\n"
@@ -291,7 +291,7 @@ def _sudo_markup() -> InlineKeyboardMarkup:
         ],
         [InlineKeyboardButton("sᴇᴛ ɪɴᴛᴇʀᴠᴀʟ",   callback_data="sudo:interval")],
         [
-            InlineKeyboardButton("ꜱᴜᴩᴩᴏʀᴛ", url="https://t.me/+ij3pcPOXv2U4MDll"),
+            InlineKeyboardButton("ɴᴇᴛᴡᴏʀᴋ", url="https://t.me/Zenkai_Network"),
             InlineKeyboardButton("✖ ᴄʟᴏsᴇ", callback_data="sudo:close"),
         ],
     ])
