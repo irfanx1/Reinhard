@@ -3,14 +3,14 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Telegram API credentials — https://my.telegram.org
-API_ID   = "39407537"
-API_HASH = "5bd2e83dd1227da3f38c966d1d46d9ae"
+API_ID   = "27xxxxxxx"
+API_HASH = "a14c9xxxxxxxxxxxxxxxxxxx0"
 
 # Bot token — @BotFather
-BOT_TOKEN = "8930657658:AAFY0PNiGd_fvFjluq_0p7tahqF9huGtRhU"
+BOT_TOKEN = "8649063236:AAHg7xxxxxxxxxxxxxxxxxxxxxx"
 
 # MongoDB URI — https://www.mongodb.com/
-MONGO_URI = "mongodb+srv://ADMIN98:Irfan987065@cluster0.eqcgcaq.mongodb.net/?appName=Cluster0"
+MONGO_URI = "mongodb+srv://xxxxxxxxxxx:xxxxxxxx@cluster0.t3frstc.mongodb.net/?appName=Cluster0"
 
 # ── Owner / Admins ──────────────────────────────
 OWNER_ID = 8180269769           # Single owner (full control)
